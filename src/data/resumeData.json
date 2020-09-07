@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name": "Jeonghoon Lee",
+    "occupation": "Junior Full Stack Developer",
+    "description": "I am looking for an internship or a job opportunity. I am currently studying and working with Java, Java Spring Framework, Nodejs and React",
+    "image": "jh-picture.png",
+    "bio": "I have extensive experience in developing software applications over 10 years in South Korea, but I have left from a developer job since I came to Canada in 2013. To overcome my career gap and learn the latest technology, I am studying in Internet Programming and Development at the John Abbott College. I really want to get a new opportunity as a developer in Canada.",
+    "contactmessage": "",
+    "email": "hoon22.lee@gmail.com",
+    "phone": "514-992-1279",
+    "address": {
+      "street": "Grand Boulevard",
+      "city": "Montreal",
+      "state": "Quebec",
+      "zip": "H4B 2Y1"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "/cv/Resume-Jeonghoon.pdf",
+    "social": [{
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jeonghoon-lee-996a3483/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Jeonghoon-Lee",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100041502514448",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have experience of software developer over 10 years and good basic knowledge of software development. So I can easily learn new programming languages and frameworks.",
+    "education": [{
+        "school": "John Abbott College",
+        "degree": "AEC in Internet Programming and Development",
+        "graduated": "August 2018 ~ Present",
+        "description": "I am studying about web development and programming skills with latest technogy such as Java, C#, Javascript, PHP and database server."
+      },
+      {
+        "school": "Kyungpook National University",
+        "degree": "Master in Computer Science",
+        "graduated": "South Korea, March 1995 ~ Feburary 1997",
+        "description": ""
+      },
+      {
+        "school": "Kyungpook National University",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "South Korea, March 1991 ~ Feburary 1995",
+        "description": ""
+      }
+    ],
+    "work": [{
+        "company": "Micanan Systems",
+        "title": "Electromechanical Assembler",
+        "years": "June 2014 - June 2018",
+        "description": "This was my first job in Canada. It was not a job that I expected in Canada. However it was valuable time for me. I learned about Canadian company culture, hardware knowledge and met good people."
+      },
+      {
+        "company": "Freelancer Software Developer",
+        "title": "",
+        "years": "South Korea, August 2010 - December 2012",
+        "description": "I developed desktop applications based on Microsoft Windows Environment. I developed the automated camera module testing system controller with Visual C++, MFC and Matrox library for LG Electronics."
+      },
+      {
+        "company": "Acetel Co. Ltd.",
+        "title": "Senior Developer",
+        "years": "May 2006 - August 2009",
+        "description": "I was a first software developer in this company. I helped a company setup development team and worked as senior developer. I led a team for developing the professional H.264 decoding system that was first developed product of company, and completed successfully."
+      },
+      {
+        "company": "Gunjarm Digital Co. Ltd.",
+        "title": "Senior Researcher Engineer",
+        "years": "May 2006 - August 2009",
+        "description": "Gunjarm was a venture company that was developing MPEG-2 encoder and decoder for broadcast service. I challenged new tech company with a dream and I was working and researching very hard to realize new technology into products. It wasn't easy, but very fun and good chance to learn a lot. I learned about MPEG-2, Visual C++, MFC, Windows API and Embedded system."
+      },
+      {
+        "company": "Nongshim Data System(NDS) Co. Ltd.",
+        "title": "Junior Researcher Engineer",
+        "years": "Feburay 1997 - April 2000",
+        "description": "I was studied about collaboration and cowork using groupware system in university. This was a good chance for me to understand how to implement groupware system in real company. I was participated in developing the approval system and web mail service."
+      }
+    ],
+    "skills": [{
+        "name": "Java",
+        "level": "0%"
+      },
+      {
+        "name": "Javascript",
+        "level": "0%"
+      },
+      {
+        "name": "C#",
+        "level": "0%"
+      },
+      {
+        "name": "PHP",
+        "level": "0%"
+      },
+      {
+        "name": "Visual C++",
+        "level": "0%"
+      },
+      {
+        "name": "Java Spring",
+        "level": "0%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "0%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "0%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "0%"
+      },
+      {
+        "name": "Entity Framework",
+        "level": "0%"
+      },
+      {
+        "name": "HTML5/CSS3",
+        "level": "0%"
+      },
+      {
+        "name": "GIT",
+        "level": "0%"
+      },
+      {
+        "name": "MySQL",
+        "level": "0%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "0%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Personal Canban Tool",
+        "category": "Manage personal projects and tasks",
+        "tech": "Asp.Net Core, Razor page, SQLite",
+        "image": "jj-ppm.png",
+        "url": "https://jj-ppm.herokuapp.com/",
+        "source": "https://github.com/Jialing-Huang/JJPPM"
+      },
+      {
+        "title": "Clothing Store",
+        "category": "Online clothing shopping store",
+        "tech": "React, Node.js, Firebase, Stripe",
+        "image": "clothing-store.png",
+        "url": "https://jh-store-live.herokuapp.com/",
+        "source": "https://github.com/Jeonghoon-Lee/clothing-store"
+      },
+      {
+        "title": "Project Manager",
+        "category": "Project Managment Tool for company",
+        "tech": "Java Spring, React, Postgres DB",
+        "image": "project-management.png",
+        "url": "https://jh-project-management.herokuapp.com/",
+        "source": "https://github.com/Jeonghoon-Lee/project-management"
+      },
+      {
+        "title": "Chat App",
+        "category": "Realtime chatting web application",
+        "tech": "Node.js, Web socket",
+        "image": "chatapp.png",
+        "url": "https://hoon-chat-app-nodejs.herokuapp.com/",
+        "source": "https://github.com/Jeonghoon-Lee/chat-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+      "text": "",
+      "user": ""
+    }]
+  }
+}
