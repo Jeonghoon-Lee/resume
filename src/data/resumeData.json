@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Jeonghoon Lee",
-    "occupation": "Junior Full Stack Developer",
-    "description": "I am looking for an internship or a job opportunity. I am currently studying and working with Java, Java Spring Framework, Nodejs and React",
+    "occupation": "Software Developer",
+    "description": "I am looking for a java, backend or full-stack developer opportunity. I am currently studying and working with Java, Java Spring Framework, Nodejs and React",
     "image": "jh-picture.png",
     "bio": "I have extensive experience in developing software applications over 10 years in South Korea, but I have left from a developer job since I came to Canada in 2013. To overcome my career gap and learn the latest technology, I am studying in Internet Programming and Development at the John Abbott College. I really want to get a new opportunity as a developer in Canada.",
     "contactmessage": "",
@@ -16,7 +16,8 @@
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "/cv/Resume-Jeonghoon.pdf",
-    "social": [{
+    "social": [
+      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jeonghoon-lee-996a3483/",
         "className": "fa fa-linkedin"
@@ -35,11 +36,18 @@
   },
   "resume": {
     "skillmessage": "I have experience of software developer over 10 years and good basic knowledge of software development. So I can easily learn new programming languages and frameworks.",
-    "education": [{
+    "education": [
+      {
+        "school": "Vanier College",
+        "degree": "AEC in Web and Database Programming",
+        "graduated": "January 2021 ~ May 2021",
+        "description": "I learned about java programming, oracle database and linux skills."
+      },
+      {
         "school": "John Abbott College",
         "degree": "AEC in Internet Programming and Development",
-        "graduated": "August 2018 ~ Present",
-        "description": "I am studying about web development and programming skills with latest technogy such as Java, C#, Javascript, PHP and database server."
+        "graduated": "August 2018 ~ September 2020",
+        "description": "I studied about web development and programming skills with latest technogy such as Java, C#, Javascript, PHP and database server."
       },
       {
         "school": "Kyungpook National University",
@@ -54,7 +62,8 @@
         "description": ""
       }
     ],
-    "work": [{
+    "work": [
+      {
         "company": "Micanan Systems",
         "title": "Electromechanical Assembler",
         "years": "June 2014 - June 2018",
@@ -85,7 +94,8 @@
         "description": "I was studied about collaboration and cowork using groupware system in university. This was a good chance for me to understand how to implement groupware system in real company. I was participated in developing the approval system and web mail service."
       }
     ],
-    "skills": [{
+    "skills": [
+      {
         "name": "Java",
         "level": "0%"
       },
@@ -140,11 +150,16 @@
       {
         "name": "SQL Server",
         "level": "0%"
+      },
+      {
+        "name": "Oracle Database",
+        "level": "0%"
       }
     ]
   },
   "portfolio": {
-    "projects": [{
+    "projects": [
+      {
         "title": "Personal Canban Tool",
         "category": "Manage personal projects and tasks",
         "tech": "Asp.Net Core, Razor page, SQLite",
@@ -179,9 +194,11 @@
     ]
   },
   "testimonials": {
-    "testimonials": [{
-      "text": "",
-      "user": ""
-    }]
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
   }
 }
