@@ -2,14 +2,14 @@
   "main": {
     "name": "Jeonghoon Lee",
     "occupation": "Software Developer",
-    "description": "I am looking for a java, backend or full-stack developer opportunity. I am currently studying and working with Java, Java Spring Framework, Nodejs and React",
-    "image": "jh-picture.png",
-    "bio": "I have extensive experience in developing software applications over 10 years in South Korea, but I have left from a developer job since I came to Canada in 2013. To overcome my career gap and learn the latest technology, I am studying in Internet Programming and Development at the John Abbott College. I really want to get a new opportunity as a developer in Canada.",
+    "description": "I am looking for a Java, Backend or Full-stack Developer opportunity. I am currently studying and working with Java, Java Spring Framework, Python, Nodejs and React",
+    "image": "jh-2.png",
+    "bio": "I have extensive experience in developing software applications, but I have left from a software developer since I came to Canada in 2013. To overcome my career gap and learn the latest technology, I studied in Internet Programming and Development at the John Abbott College and the Vanier. I really want to get a new opportunity as a developer in Canada.",
     "contactmessage": "",
     "email": "hoon22.lee@gmail.com",
     "phone": "514-992-1279",
     "address": {
-      "street": "Grand Boulevard",
+      "street": "",
       "city": "Montreal",
       "state": "Quebec",
       "zip": "H4B 2Y1"
@@ -35,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "I have experience of software developer over 10 years and good basic knowledge of software development. So I can easily learn new programming languages and frameworks.",
+    "skillmessage": "I have experience of software developer over 10 years and good basic knowledge of software development. I can quickly learn new programming languages and frameworks.",
     "education": [
       {
         "school": "Vanier College",
@@ -71,7 +71,7 @@
       },
       {
         "company": "Freelancer Software Developer",
-        "title": "",
+        "title": "Software Developer",
         "years": "South Korea, August 2010 - December 2012",
         "description": "I developed desktop applications based on Microsoft Windows Environment. I developed the automated camera module testing system controller with Visual C++, MFC and Matrox library for LG Electronics."
       },
@@ -113,6 +113,10 @@
       },
       {
         "name": "Visual C++",
+        "level": "0%"
+      },
+      {
+        "name": "Python",
         "level": "0%"
       },
       {

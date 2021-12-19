@@ -10,7 +10,7 @@ class Header extends Component {
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
-            <a href={network.url} target="_blank">
+            <a href={network.url} target='_blank'>
               <i className={network.className}></i>
             </a>
           </li>
@@ -19,53 +19,53 @@ class Header extends Component {
     }
 
     return (
-      <header id="home">
-        <nav id="nav-wrap">
-          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
+      <header id='home'>
+        <nav id='nav-wrap'>
+          <a className='mobile-btn' href='#nav-wrap' title='Show navigation'>
             Show navigation
           </a>
-          <a className="mobile-btn" href="#home" title="Hide navigation">
+          <a className='mobile-btn' href='#home' title='Hide navigation'>
             Hide navigation
           </a>
 
-          <ul id="nav" className="nav">
-            <li className="current">
-              <a className="smoothscroll" href="#home">
+          <ul id='nav' className='nav'>
+            <li className='current'>
+              <a className='smoothscroll' href='#home'>
                 Home
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#about">
+              <a className='smoothscroll' href='#about'>
                 About Me
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#resume">
+              <a className='smoothscroll' href='#resume'>
                 Resume
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#portfolio">
+              <a className='smoothscroll' href='#portfolio'>
                 Projects
               </a>
             </li>
           </ul>
         </nav>
 
-        <div className="row banner">
-          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+        <div className='row banner'>
+          <div className='banner-text'>
+            <h1 className='responsive-headline'>I'm {name}.</h1>
             <h3>
-              I'm a {city} based <span>{occupation}</span>. {description}.
+              I'm a <span>{occupation}</span> based in {city}. {description}.
             </h3>
             <hr />
-            <ul className="social">{networks}</ul>
+            <ul className='social'>{networks}</ul>
           </div>
         </div>
 
-        <p className="scrolldown">
-          <a className="smoothscroll" href="#about">
-            <i className="icon-down-circle"></i>
+        <p className='scrolldown'>
+          <a className='smoothscroll' href='#about'>
+            <i className='icon-down-circle'></i>
           </a>
         </p>
       </header>
