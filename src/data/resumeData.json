@@ -176,8 +176,8 @@
         "category": "Online clothing shopping store",
         "tech": "React, Node.js, Firebase, Stripe",
         "image": "clothing-store.png",
-        "url": "https://jh-store-live.herokuapp.com/",
-        "source": "https://github.com/Jeonghoon-Lee/clothing-store"
+        "url": "https://jh-clothing-live.herokuapp.com/",
+        "source": "https://github.com/Jeonghoon-Lee/clothing-shop"
       },
       {
         "title": "Project Manager",
